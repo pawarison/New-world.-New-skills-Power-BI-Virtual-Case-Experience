@@ -11,3 +11,26 @@ Possible KPIs include
 - Calls by time
 - Average speed of answer
 - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+
+## Task 3 - Customer Churn
+Create a Dashboard that reflects customer churn. Some inputs that could be considered
+
+- Customers who left within the last month
+- Services each customer has signed up for: phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
+- Customer account information: how long as a customer, contract, payment method, paperless billing, monthly charges, total charges and number of tickets opened in the categories administrative and technical
+- Demographic info about customers – gender, age range, and if they have partners and dependents
+
+## Task 4 - Diversity & Inclusion
+The dashboard defined relevant KPIs in hiring, promotion, performance and turnover, and drew conclusions
+
+Some measures created were
+
+- % of men
+- % of women
+- % of leavers
+- % employees promoted (FY21)
+- % of women promoted
+- % of hires men
+- % of hires women
+- Average performance rating: men
+- Average Performance rating: women
